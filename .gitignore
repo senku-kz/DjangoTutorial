@@ -1,5 +1,4 @@
 .idea/
 db_img/
-media/**
-**/photos/**
+media/
 __pycache__/
