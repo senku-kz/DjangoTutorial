@@ -17,4 +17,4 @@ STATIC_ROOT - путь к общей статической папке, испо
 STATICFILES_DIRS - список дополнительных (нестандартных) путей к статическим файлам, используемых для сбора и для режима отладки
 
 git rm -r -f --cached media
-git rm --cached */__pycache__/*
+git rm -r --cached */__pycache__/*
